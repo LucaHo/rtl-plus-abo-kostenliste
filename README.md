@@ -6,7 +6,7 @@ Mit Premium geniesst du noch mehr Flexibilität: Streame wann, wo und so viel du
 | Werbung | Werbung | 1 Werbespot | Keine Werbung* |
 | Gleichzeitiges Streaming | ➖ | 1 | 2 |
 | Original-Version | ➖ | ➖ | ✔ |
-| RTL+Originals | ➖ | ✔ | ✔ |
+| RTL+Originals | ❌ | ✔ | ✔ |
 | Device | Nur im Web | Apps & Geräte | Apps & Geräte |
 | Persönliche Empfehlungen | ------ | ------ | ------ |
 | HD-Qualität | ------ | ------ | ------ |
