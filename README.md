@@ -4,8 +4,8 @@ Mit Premium geniesst du noch mehr Flexibilität: Streame wann, wo und so viel du
 | | Free €0,00 /Monat | Premium €4,99 /Monat | Duo €7,99 /Monat |
 | ------ | ------ | ------ | ------ |
 | Werbung | Werbung | 1 Werbespot | Keine Werbung* |
-| Gleichzeitiges Streaming | ➖ | 1 | 2 |
-| Original-Version | ➖ | ➖ | ✔ |
+| Gleichzeitiges Streaming | ❌ | 1 | 2 |
+| Original-Version | ❌ | ❌ | ✔ |
 | RTL+Originals | ❌ | ✔ | ✔ |
 | Device | Nur im Web | Apps & Geräte | Apps & Geräte |
 | Persönliche Empfehlungen | ------ | ------ | ------ |
