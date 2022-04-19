@@ -1,6 +1,8 @@
 ## Vorteile deines RTL+ Pakets
-Mit Premium geniesst du noch mehr Flexibilität: Streame wann, wo und so viel du willst
+Mit Premium geniesst du noch mehr Flexibilität: 
+Streame wann, wo und so viel du willst
 
+<button onclick="location.href='https://my.tvnow.de/buchen/bezahlen'" type="button">Buchen</button>
 | | Free €0,00 /Monat | Premium €4,99 /Monat | Duo €7,99 /Monat |
 | ------ | ------ | ------ | ------ |
 | Werbung | Werbung | 1 Werbespot | Keine Werbung* |
@@ -16,4 +18,3 @@ Mit Premium geniesst du noch mehr Flexibilität: Streame wann, wo und so viel du
 | Insider | ✔ | ✔ | ✔ |
 | Kündigungsfrist | ❌ | 30 Tage | 30 Tage |
 | Download | ❌ | ❌ | ✔ |
-<button onclick="location.href='https://my.tvnow.de/buchen/bezahlen'" type="button">Buchen</button>
