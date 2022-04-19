@@ -1,3 +1,3 @@
-| Lebensmittel | Lagerbedingungen | Haltbarkeit |
+| Lebensmittel | Lagerbedingungen | Haltbarkeit | ------ |
 | ------ | ------ | ------ | ------ |
-| Hackfleisch,roh | 0-4°Celsius | Einkaufstag |
+| Hackfleisch,roh | 0-4°Celsius | Einkaufstag | ------ |
