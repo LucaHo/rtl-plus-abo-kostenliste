@@ -16,3 +16,4 @@ Mit Premium geniesst du noch mehr Flexibilität: Streame wann, wo und so viel du
 | Insider | ✔ | ✔ | ✔ |
 | Kündigungsfrist | ❌ | 30 Tage | 30 Tage |
 | Download | ❌ | ❌ | ✔ |
+<button onclick="location.href='https://my.tvnow.de/buchen/bezahlen'" type="button">Buchen</button>
