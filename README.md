@@ -4,7 +4,7 @@ Mit Premium geniesst du noch mehr Flexibilität: Streame wann, wo und so viel du
 | | Free €0,00 /Monat | Premium €4,99 /Monat | Duo €7,99 /Monat |
 | ------ | ------ | ------ | ------ |
 | Werbung | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ |
+| Gleichzeitiges Streaming | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ |
