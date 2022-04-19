@@ -8,11 +8,11 @@ Mit Premium geniesst du noch mehr Flexibilität: Streame wann, wo und so viel du
 | Original-Version | ❌ | ❌ | ✔ |
 | RTL+Originals | ❌ | ✔ | ✔ |
 | Device | Nur im Web | Apps & Geräte | Apps & Geräte |
-| Persönliche Empfehlungen | ------ | ------ | ------ |
-| HD-Qualität | ------ | ------ | ------ |
-| Pre-TV | ------ | ------ | ------ |
-| Über 1000 Formate | ------ | ------ | ------ |
-| 14 Sender Live | ------ | ------ | ------ |
-| Insider | ------ | ------ | ------ |
-| Kündigungsfrist | ------ | ------ | ------ |
-| Download | ------ | ------ | ------ |
+| Persönliche Empfehlungen | ✔ | ✔ | ✔ |
+| HD-Qualität | ❌ | ✔ | ✔ |
+| Pre-TV | ❌ | ✔ | ✔ |
+| Über 1000 Formate | ❌ | ✔ | ✔ |
+| 14 Sender Live | ❌ | ✔ | ✔ |
+| Insider | ✔ | ✔ | ✔ |
+| Kündigungsfrist | ❌ | 30 Tage | 30 Tage |
+| Download | ❌ | ❌ | ✔ |
